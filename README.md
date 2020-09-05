@@ -1,2 +1,5 @@
 # Machine-Learning-Logistic-Regression-
-Predicting whether a student passes or not in an exam based on historical experience of marks in subjects by building a classification model with Logistic Regression .
+
+   Suppose that you are the administrator of a university department and you want to determine each applicant’s chance of admission based on their results on two exams. You have historical data from previous applicants that you can use as a training set for logistic regression. For each training example, you have the applicant’s scores on two exams and the admissions decision.
+
+   We are building a classiﬁcation model that estimates an applicant’s probability of admission based the scores from those two exams.
